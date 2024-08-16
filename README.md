@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tienda de Tecnología</title>
+    pip freeze > requirements.txt
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -197,7 +198,7 @@
             margin: 10px 0;
             font-size: 18px;
         }
-
+   
         #cart-section ul {
             list-style-type: none;
             padding: 0;
